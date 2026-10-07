@@ -178,4 +178,3 @@ aws configure
 - [Amazon Bedrock Agentcore Samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
 
 ---
-Copyright©️ Codebasics Inc. All rights reserved.
